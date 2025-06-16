@@ -7,5 +7,87 @@
             "All images loaded in MariaFrancesca6/GiuocoSanguineti project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://MariaFrancesca6.github.io/GiuocoSanguineti/images/imgGiuocoAI/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "imgGiuocoAI"
+                ]
+            },
+            "height": 1024,
+            "width": 1575,
+            "items": [
+                {
+                    "id": "https://MariaFrancesca6.github.io/GiuocoSanguineti/images/imgGiuocoAI/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://MariaFrancesca6.github.io/GiuocoSanguineti/images/imgGiuocoAI/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://MariaFrancesca6.github.io/GiuocoSanguineti/images/imgGiuocoAI/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 50,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 99,
+                                                "height": 64
+                                            },
+                                            {
+                                                "width": 197,
+                                                "height": 128
+                                            },
+                                            {
+                                                "width": 394,
+                                                "height": 256
+                                            },
+                                            {
+                                                "width": 788,
+                                                "height": 512
+                                            },
+                                            {
+                                                "width": 1575,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1575,
+                                        "@id": "https://MariaFrancesca6.github.io/GiuocoSanguineti/images/imgGiuocoAI",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1024,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://MariaFrancesca6.github.io/GiuocoSanguineti/images/imgGiuocoAI/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
